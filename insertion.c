@@ -8,6 +8,10 @@ void swap(int *xp, int *yp)
     *yp = temp;
 }
 
+void printakhil(){
+    printf("hi akhil\n");
+}
+
 void printArray(int arr[], int size)
 {
     int i;
