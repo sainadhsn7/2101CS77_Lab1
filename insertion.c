@@ -12,6 +12,10 @@ void printakhil(){
     printf("hi akhil\n");
 }
 
+void printsai(){
+    printf("hi Sainadh\n");
+}
+
 void printArray(int arr[], int size)
 {
     int i;
